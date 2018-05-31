@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fb2a48a-9a65-4f2d-ba31-9db15b2fba67" name="Default" comment="" />
+    <ignored path="JJTExpressApp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JJTExpressApp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RealNameSystem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/ios/RealNameSystem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="815" column="49" selection-start-line="815" selection-start-column="49" selection-end-line="815" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendPieces.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/ios/SendPieces.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/util/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2325">
+              <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncrementSubmit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/ios/IncrementSubmit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12500">
+              <caret line="520" column="43" selection-start-line="520" selection-start-column="43" selection-end-line="520" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealNameSyetemDetail.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/ios/RealNameSyetemDetail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3425">
+              <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/ios/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PiecesDetail.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/ios/PiecesDetail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/ios/CameraScreen.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/TotalCash.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/TotalPiece.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/TodayGift.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/Scanning.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/ToadyIncrements.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/Increment.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/IncrementSubmit2.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-navigation/src/addNavigationHelpers.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/RealPieceSucess.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/PiecesSucess.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/RealPiecesSucess.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/PiecesFail.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/ChangePieceAdress.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/Mine.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/Login.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/IncrementSubmit.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/PiecesDetail.js" />
+        <option value="$PROJECT_DIR$/scripts/util/util.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/RealNameSyetemDetail.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/SendPieces.js" />
+        <option value="$PROJECT_DIR$/scripts/ios/RealNameSystem.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/app.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appCeshi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appCeshi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appCeshi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb2a48a-9a65-4f2d-ba31-9db15b2fba67" name="Default" comment="" />
+      <created>1509429793294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509429793294</updated>
+      <workItem from="1509429794671" duration="12680000" />
+      <workItem from="1509497693403" duration="26677000" />
+      <workItem from="1509583635311" duration="11068000" />
+      <workItem from="1510621796600" duration="32123000" />
+      <workItem from="1510707411437" duration="44000" />
+      <workItem from="1510743343686" duration="1817000" />
+      <workItem from="1510794449402" duration="13016000" />
+      <workItem from="1510883559607" duration="4125000" />
+      <workItem from="1511139103342" duration="65000" />
+      <workItem from="1511228775991" duration="2030000" />
+      <workItem from="1511230951067" duration="267000" />
+      <workItem from="1511402712059" duration="5254000" />
+      <workItem from="1511934486292" duration="2046000" />
+      <workItem from="1512022834792" duration="17618000" />
+      <workItem from="1512349908896" duration="754000" />
+      <workItem from="1512350822961" duration="7684000" />
+      <workItem from="1512963520455" duration="6628000" />
+      <workItem from="1513128588305" duration="104000" />
+      <workItem from="1513302625769" duration="58000" />
+      <workItem from="1513322573352" duration="5250000" />
+      <workItem from="1514363802415" duration="1223000" />
+      <workItem from="1514449283970" duration="1686000" />
+      <workItem from="1515649272090" duration="536000" />
+      <workItem from="1515669497242" duration="2969000" />
+      <workItem from="1515751858623" duration="1048000" />
+      <workItem from="1516168507305" duration="641000" />
+      <workItem from="1516342531715" duration="1249000" />
+      <workItem from="1516866100421" duration="1798000" />
+      <workItem from="1517559926052" duration="2663000" />
+      <workItem from="1517986391462" duration="1448000" />
+      <workItem from="1519787505191" duration="1690000" />
+      <workItem from="1519870164557" duration="19302000" />
+      <workItem from="1519952559083" duration="20390000" />
+      <workItem from="1520041598581" duration="20154000" />
+      <workItem from="1520211982686" duration="23101000" />
+      <workItem from="1520258549501" duration="1329000" />
+      <workItem from="1520298669133" duration="1727000" />
+      <workItem from="1520400885898" duration="4091000" />
+      <workItem from="1520822283421" duration="4281000" />
+      <workItem from="1521262584408" duration="936000" />
+      <workItem from="1521421190989" duration="1285000" />
+      <workItem from="1521423479887" duration="1507000" />
+      <workItem from="1521425411752" duration="710000" />
+      <workItem from="1521427394615" duration="16000" />
+      <workItem from="1521442489796" duration="217000" />
+      <workItem from="1521526210258" duration="9490000" />
+      <workItem from="1521594664268" duration="23124000" />
+      <workItem from="1521680293352" duration="12234000" />
+      <workItem from="1521787278900" duration="768000" />
+      <workItem from="1522024561171" duration="13872000" />
+      <workItem from="1522059369791" duration="5372000" />
+      <workItem from="1522115439099" duration="24761000" />
+      <workItem from="1522197963880" duration="9759000" />
+      <workItem from="1522285861254" duration="1349000" />
+      <workItem from="1522371912885" duration="2262000" />
+      <workItem from="1522393551794" duration="3052000" />
+      <workItem from="1523604354465" duration="6421000" />
+      <workItem from="1523840295959" duration="3307000" />
+      <workItem from="1523926996560" duration="2764000" />
+      <workItem from="1524013406840" duration="646000" />
+      <workItem from="1524099895622" duration="3947000" />
+      <workItem from="1524449696745" duration="2433000" />
+      <workItem from="1524533709048" duration="7288000" />
+      <workItem from="1524620772490" duration="1232000" />
+      <workItem from="1526462731676" duration="166000" />
+      <workItem from="1527498427960" duration="8348000" />
+      <workItem from="1527506877750" duration="122000" />
+      <workItem from="1527554607514" duration="9310000" />
+      <workItem from="1527564923283" duration="17158000" />
+      <workItem from="1527641601028" duration="2348000" />
+      <workItem from="1527644834815" duration="3126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="439964000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16086498" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3655793" sideWeight="0.5590717" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.4978903" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3655793" sideWeight="0.44092828" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.49156117" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/ios/ChangePieceAdress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="94" column="46" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/TodayGift.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/TotalCash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/Mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/TotalCash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/TotalPiece.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/Increment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-communications/AKCommunications.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/ios/FailReasonQita.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/ChangePwd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/Setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/PiecesIng.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/navigationRight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/IncrementSubmit2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="1658" column="0" selection-start-line="1658" selection-start-column="0" selection-end-line="1658" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/ToadyIncrements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="87" column="97" selection-start-line="87" selection-start-column="97" selection-end-line="87" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/ceshicamera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="376" column="4" selection-start-line="376" selection-start-column="4" selection-end-line="376" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd-mobile/lib/index.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/ios/CameraScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/TodayGift.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="82" column="60" selection-start-line="82" selection-start-column="60" selection-end-line="82" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-navigation/src/addNavigationHelpers.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-image-zoom-viewer/built/index.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/ReasonSucess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/PiecesSucess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/util/code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="0" column="1530" selection-start-line="0" selection-start-column="1530" selection-end-line="0" selection-end-column="1530" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-tab-navigator/TabNavigator.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/ios/Mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4025">
+          <caret line="177" column="65" selection-start-line="177" selection-start-column="65" selection-end-line="177" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/RealPiecesSucess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="73" column="49" selection-start-line="73" selection-start-column="49" selection-end-line="73" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Alert/Alert.js" />
+    <entry file="file://$USER_HOME$/Desktop/echarts-for-react-master/demo/src/charts/Api.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/PiecesFail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="55" column="165" selection-start-line="55" selection-start-column="165" selection-end-line="55" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/ChangePieceAdress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="151" column="47" selection-start-line="151" selection-start-column="47" selection-end-line="151" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.flowconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.watchmanconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/ScannDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="84" column="42" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/Scanning.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="125" column="47" selection-start-line="125" selection-start-column="47" selection-end-line="125" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/util/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/RealNameSyetemDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3425">
+          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/SendPieces.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/IncrementSubmit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12500">
+          <caret line="520" column="43" selection-start-line="520" selection-start-column="43" selection-end-line="520" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/RealNameSystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="815" column="49" selection-start-line="815" selection-start-column="49" selection-end-line="815" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/PiecesDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ios/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

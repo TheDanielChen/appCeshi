@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "appCeshi",
+    "description": "Quick and efficient",
+    "slug": "appCeshi",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./jjtlogo.png"
+  }
+}
